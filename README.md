@@ -6,3 +6,4 @@ A collection of all problems I've solved on LeetCode. I will be updating this wi
 3. [Longest Substring Without Repeating Characters](https://github.com/vishnureddys/leetcode/blob/main/LongestSubstringWithoutRepeatingCharacters.cpp)
 4. [Median Of Two Sorted Arrays](https://github.com/vishnureddys/leetcode/blob/main/MedianOfTwoSortedArrays.cpp)
 5. [Longest Palindromic Substring](https://github.com/vishnureddys/leetcode/blob/main/LongestPalindromicSubstring.cpp)
+6. [ZigZag Conversion](https://github.com/vishnureddys/leetcode/blob/main/ZigZagConversion.cpp)
