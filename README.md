@@ -7,3 +7,4 @@ A collection of all problems I've solved on LeetCode. I will be updating this wi
 4. [Median Of Two Sorted Arrays](https://github.com/vishnureddys/leetcode/blob/main/MedianOfTwoSortedArrays.cpp)
 5. [Longest Palindromic Substring](https://github.com/vishnureddys/leetcode/blob/main/LongestPalindromicSubstring.cpp)
 6. [ZigZag Conversion](https://github.com/vishnureddys/leetcode/blob/main/ZigZagConversion.cpp)
+7. [Reverse Integer](https://github.com/vishnureddys/leetcode/blob/main/Reverse%20Integer.cpp)
