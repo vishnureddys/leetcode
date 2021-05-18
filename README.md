@@ -9,3 +9,4 @@ A collection of all problems I've solved on LeetCode. I will be updating this wi
 6. [ZigZag Conversion](https://github.com/vishnureddys/leetcode/blob/main/ZigZagConversion.cpp)
 7. [Reverse Integer](https://github.com/vishnureddys/leetcode/blob/main/Reverse%20Integer.cpp)
 8. [String to Integer (atoi)](https://github.com/vishnureddys/leetcode/blob/main/String%20to%20Integer.cpp)
+9. [Palindrome Number](https://github.com/vishnureddys/leetcode/blob/main/Palindrome%20Number.cpp)
