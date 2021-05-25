@@ -10,3 +10,4 @@ A collection of all problems I've solved on LeetCode. I will be updating this wi
 7. [Reverse Integer](https://github.com/vishnureddys/leetcode/blob/main/Reverse%20Integer.cpp)
 8. [String to Integer (atoi)](https://github.com/vishnureddys/leetcode/blob/main/String%20to%20Integer.cpp)
 9. [Palindrome Number](https://github.com/vishnureddys/leetcode/blob/main/Palindrome%20Number.cpp)
+10. [Regular Expression Matching](https://github.com/vishnureddys/leetcode/blob/main/Regular%20Expression%20Matching.cpp)
