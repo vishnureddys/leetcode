@@ -13,3 +13,4 @@ A collection of all problems I've solved on LeetCode. I will be updating this wi
 | 8   | String to Integer (atoi) | [String to Integer (atoi)](https://github.com/vishnureddys/leetcode/blob/main/String%20to%20Integer.cpp) |     |
 | 9   | Palindrome Number | [Palindrome Number](https://github.com/vishnureddys/leetcode/blob/main/Palindrome%20Number.cpp) |     |
 | 10  | Regular Expression Matching | [Regular Expression Matching](https://github.com/vishnureddys/leetcode/blob/main/Regular%20Expression%20Matching.cpp) |     |
+| 11  | Container With Most Water | [Container With Most Water](https://github.com/vishnureddys/leetcode/blob/main/Container%20With%20Most%20Water.cpp) |     |
