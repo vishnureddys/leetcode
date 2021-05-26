@@ -9,7 +9,7 @@ I will be updating this with links to articles on how to solve it from [hello ML
 | Number | Problem | Solution | Blog |
 | --- | --- | --- | --- |
 | 1   | Two Sum | [Two Sum](https://github.com/vishnureddys/leetcode/blob/main/TwoSum.cpp) | [hello ML](https://helloml.org/two-sum-problem-using-stl-solutions-and-analysis/) |
-| 2   | Add Two Numbers | [Add Two Numbers](https://github.com/vishnureddys/leetcode/blob/main/AddTwoNumbers.cpp) |     |
+| 2   | Add Two Numbers | [Add Two Numbers](/cpp/Add%20Two%20Numbers.cpp) |     |
 | 3   | Longest Substring Without Repeating Characters | [Longest Substring Without Repeating Characters](https://github.com/vishnureddys/leetcode/blob/main/LongestSubstringWithoutRepeatingCharacters.cpp) |     |
 | 4   | Median Of Two Sorted Arrays | [Median Of Two Sorted Arrays](https://github.com/vishnureddys/leetcode/blob/main/MedianOfTwoSortedArrays.cpp) | [hello ML](https://helloml.org/median-of-two-sorted-arrays-leetcode-problem/) |
 | 5   | Longest Palindromic Substring | [Longest Palindromic Substring](https://github.com/vishnureddys/leetcode/blob/main/LongestPalindromicSubstring.cpp) |     |
