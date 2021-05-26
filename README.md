@@ -1,5 +1,8 @@
 # LeetCode Solutions
-A collection of all problems I've solved on LeetCode. I will be updating this with links to articles on how to solve it from [hello ML](https://helloml.org) shortly. 
+
+A collection of all problems I've solved on LeetCode<img src="/images/leetcode.svg" alt="leetcode.svg" width="24" height="24">
+
+I will be updating this with links to articles on how to solve it from [hello ML](https://helloml.org) shortly.
 
 ## Problems Solved
 
@@ -20,7 +23,9 @@ A collection of all problems I've solved on LeetCode. I will be updating this wi
 | 13  | Roman to Integer | [Roman to Integer](https://github.com/vishnureddys/leetcode/blob/main/Roman%20to%20Integer.cpp) |     |
 
 ## Contributing Guidelines
+
 Feel Free to contribute to this repository. All solutions must be in C++.
 
 ## License
-This is opensourced under the MIT License. 
+
+This is opensourced under the MIT License.
