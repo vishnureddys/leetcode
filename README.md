@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-A collection of all problems I've solved on LeetCode<img src="https://github.com/vishnureddys/leetcode/blob/main/images/leetcode.svg" alt="leetcode.svg" width="24" height="24" href="https://leetcode.com/problemset/all/">
+A collection of all problems I've solved on [LeetCode](https://leetcode.com/problemset/all/).
 
 I will be updating this with links to articles on how to solve it from [hello ML](https://helloml.org) shortly.
 
@@ -24,7 +24,7 @@ I will be updating this with links to articles on how to solve it from [hello ML
 
 ## Contributing Guidelines
 
-Feel Free to contribute to this repository. All solutions must be in C++.
+Feel Free to contribute to this repository. All solutions must be in their respective folders. 
 
 ## License
 
