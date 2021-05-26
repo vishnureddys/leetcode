@@ -15,3 +15,4 @@ A collection of all problems I've solved on LeetCode. I will be updating this wi
 | 10  | Regular Expression Matching | [Regular Expression Matching](https://github.com/vishnureddys/leetcode/blob/main/Regular%20Expression%20Matching.cpp) |     |
 | 11  | Container With Most Water | [Container With Most Water](https://github.com/vishnureddys/leetcode/blob/main/Container%20With%20Most%20Water.cpp) |     |
 | 12  | Integer to Roman | [Integer to Roman](https://github.com/vishnureddys/leetcode/blob/main/Integer%20to%20Roman.cpp) |     |
+| 13  | Roman to Integer | [Roman to Integer](https://github.com/vishnureddys/leetcode/blob/main/Roman%20to%20Integer.cpp) |     |
