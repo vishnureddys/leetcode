@@ -1,5 +1,7 @@
-# leetcode
-A collection of all problems I've solved on LeetCode. I will be updating this with links to articles on how to solve it from [hello ML](https://helloml.org) shortly.
+# LeetCode Solutions
+A collection of all problems I've solved on LeetCode. I will be updating this with links to articles on how to solve it from [hello ML](https://helloml.org) shortly. 
+
+## Problems Solved
 
 | Number | Problem | Solution | Blog |
 | --- | --- | --- | --- |
@@ -16,3 +18,9 @@ A collection of all problems I've solved on LeetCode. I will be updating this wi
 | 11  | Container With Most Water | [Container With Most Water](https://github.com/vishnureddys/leetcode/blob/main/Container%20With%20Most%20Water.cpp) |     |
 | 12  | Integer to Roman | [Integer to Roman](https://github.com/vishnureddys/leetcode/blob/main/Integer%20to%20Roman.cpp) |     |
 | 13  | Roman to Integer | [Roman to Integer](https://github.com/vishnureddys/leetcode/blob/main/Roman%20to%20Integer.cpp) |     |
+
+## Contributing Guidelines
+Feel Free to contribute to this repository. All solutions must be in C++.
+
+## License
+This is opensourced under the MIT License. 
