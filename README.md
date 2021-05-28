@@ -20,6 +20,7 @@ A collection of all problems I've solved on [LeetCode](https://leetcode.com/prob
 | 11  | Container With Most Water | [cpp](https://github.com/vishnureddys/leetcode/blob/main/cpp/Container%20With%20Most%20Water.cpp) |     |     |     |
 | 12  | Integer to Roman | [cpp](https://github.com/vishnureddys/leetcode/blob/main/cpp/Integer%20to%20Roman.cpp) |     |     |     |
 | 13  | Roman to Integer | [cpp](https://github.com/vishnureddys/leetcode/blob/main/cpp/Roman%20to%20Integer.cpp) |     |     |     |
+| 14  | Longest Common Prefix | [cpp](https://github.com/vishnureddys/leetcode/blob/main/cpp/Longest%20Common%20Prefix.cpp) |     |     |     |
 
 ## Contributing Guidelines
 
