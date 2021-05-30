@@ -15,7 +15,7 @@ A collection of all problems I've solved on [LeetCode](https://leetcode.com/prob
 | 6   | ZigZag Conversion | [cpp](https://github.com/vishnureddys/leetcode/blob/main/cpp/ZigZagConversion.cpp) |     |     |     |
 | 7   | Reverse Integer | [cpp](https://github.com/vishnureddys/leetcode/blob/main/cpp/Reverse%20Integer.cpp) |     |     | [hello ML](https://helloml.org/reverse-integer-handling-overflow-solution-to-leetcode-problem/) |
 | 8   | String to Integer (atoi) | [cpp](https://github.com/vishnureddys/leetcode/blob/main/cpp/String%20to%20Integer.cpp) |     |     |     |
-| 9   | Palindrome Number | [cpp](https://github.com/vishnureddys/leetcode/blob/main/cpp/Palindrome%20Number.cpp) |     |     |     |
+| 9   | Palindrome Number | [cpp](https://github.com/vishnureddys/leetcode/blob/main/cpp/Palindrome%20Number.cpp) |     |     |[hello ML](https://helloml.org/palindrome-number-leetcode-problem/)|
 | 10  | Regular Expression Matching | [cpp](https://github.com/vishnureddys/leetcode/blob/main/cpp/Regular%20Expression%20Matching.cpp) |     |     |     |
 | 11  | Container With Most Water | [cpp](https://github.com/vishnureddys/leetcode/blob/main/cpp/Container%20With%20Most%20Water.cpp) |     |     |     |
 | 12  | Integer to Roman | [cpp](https://github.com/vishnureddys/leetcode/blob/main/cpp/Integer%20to%20Roman.cpp) |     |     |     |
