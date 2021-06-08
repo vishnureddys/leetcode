@@ -24,6 +24,7 @@ A collection of all problems I've solved on [LeetCode](https://leetcode.com/prob
 | 15  | 3Sum| [cpp](https://github.com/vishnureddys/leetcode/blob/main/cpp/3Sum.cpp) |     |     |     |
 | 16  | 3Sum Closest| [cpp](https://github.com/vishnureddys/leetcode/blob/main/cpp/3Sum%20Closest.cpp) |     |     |     |
 | 17  | Letter Combinations of a Phone Number| [cpp](https://github.com/vishnureddys/leetcode/blob/main/cpp/Letter%20Combinations%20of%20a%20Phone%20Number.cpp) |     | |     |
+| 18  | 4Sum | [cpp](https://github.com/vishnureddys/leetcode/blob/main/cpp/4Sum.cpp) |     | |     |
 ## Contributing Guidelines
 
 Feel Free to contribute to this repository. All solutions must be in their respective folders. 
