@@ -2,7 +2,7 @@
 
 A collection of all problems I've solved on [LeetCode](https://leetcode.com/problemset/all/). I will be updating this with links to articles on how to solve it from [hello ML](https://helloml.org) shortly.  
 
-<a href="https://grammarly.go2cloud.org/aff_c?offer_id=3&aff_id=73274&file_id=1517" target="_blank"><img src="https://media.go2speed.org/brand/files/grammarly/3/20160818154047-491searchbannerads4_728x90.png" width="728" height="90" border="0" /></a><img src="https://grammarly.go2cloud.org/aff_i?offer_id=3&file_id=1517&aff_id=73274" width="0" height="0" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://grammarly.go2cloud.org/aff_c?offer_id=3&aff_id=73274&file_id=1517" target="_blank"><img src="https://media.go2speed.org/brand/files/grammarly/3/20160818154047-491searchbannerads4_728x90.png" width="100%" height="90" border="0" /></a><img src="https://grammarly.go2cloud.org/aff_i?offer_id=3&file_id=1517&aff_id=73274" width="0" height="0" style="position:absolute;visibility:hidden;" border="0" />
 ## Problems Solved
 
 | Number | Problem | C++ | Python | Java | Blog |
