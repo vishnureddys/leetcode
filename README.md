@@ -31,6 +31,7 @@ A collection of all problems I've solved on [LeetCode](https://leetcode.com/prob
 | 22  | Generate Parentheses | [cpp](https://github.com/vishnureddys/leetcode/blob/main/cpp/Generate%20Parentheses.cpp) |     | |     |
 | 23  | Merge k Sorted Lists | [cpp](https://github.com/vishnureddys/leetcode/blob/main/cpp/Merge%20k%20Sorted%20Lists.cpp) |     | |     |
 | 24  | Swap Nodes in Pairs | [cpp](https://github.com/vishnureddys/leetcode/blob/main/cpp/Swap%20Nodes%20in%20Pairs.cpp) |     | |     |
+| 25  | Reverse Nodes in k-Group | [cpp](https://github.com/vishnureddys/leetcode/blob/main/cpp/Reverse%20Nodes%20in%20k-Group.cpp) |     | |     |
 ## Contributing Guidelines
 
 Feel Free to contribute to this repository. All solutions must be in their respective folders. 
