@@ -34,6 +34,7 @@ A collection of all problems I've solved on [LeetCode](https://leetcode.com/prob
 | 25  | Reverse Nodes in k-Group | [cpp](https://github.com/vishnureddys/leetcode/blob/main/cpp/Reverse%20Nodes%20in%20k-Group.cpp) |     | |     |
 | 26  | Remove Duplicates from Sorted Array | [cpp](https://github.com/vishnureddys/leetcode/blob/main/cpp/Remove%20Duplicates%20from%20Sorted%20Array.cpp) |     | | [hello ML](https://helloml.org/remove-duplicates-from-sorted-array-leetcode-solution/)    |
 | 27  | Remove Element | [cpp](https://github.com/vishnureddys/leetcode/blob/main/cpp/Remove%20Element.cpp) |     | |     |
+| 28  | Implement strStr() | [cpp](https://github.com/vishnureddys/leetcode/blob/main/cpp/Implement%20strStr.cpp) |     | |     |
 ## Contributing Guidelines
 
 Feel Free to contribute to this repository. All solutions must be in their respective folders. 
