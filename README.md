@@ -26,7 +26,7 @@ A collection of all problems I've solved on [LeetCode](https://leetcode.com/prob
 | 17  | Letter Combinations of a Phone Number| [cpp](https://github.com/vishnureddys/leetcode/blob/main/cpp/Letter%20Combinations%20of%20a%20Phone%20Number.cpp) |     | |     |
 | 18  | 4Sum | [cpp](https://github.com/vishnureddys/leetcode/blob/main/cpp/4Sum.cpp) |     | |     |
 | 19  | Remove Nth Node From End of List | [cpp](https://github.com/vishnureddys/leetcode/blob/main/cpp/Remove%20Nth%20Node%20From%20End%20of%20List.cpp) |     | |     |
-| 20  | Valid Parentheses | [cpp](https://github.com/vishnureddys/leetcode/blob/main/cpp/Valid%20Parentheses.cpp) |     | |     |
+| 20  | Valid Parentheses | [cpp](https://github.com/vishnureddys/leetcode/blob/main/cpp/Valid%20Parentheses.cpp) |     | |[hello ML](https://helloml.org/valid-parentheses-solution-to-leetcode-problem/)|
 | 21  | Merge Two Sorted Lists | [cpp](https://github.com/vishnureddys/leetcode/blob/main/cpp/Merge%20Two%20Sorted%20Lists.cpp) |     | |     |
 | 22  | Generate Parentheses | [cpp](https://github.com/vishnureddys/leetcode/blob/main/cpp/Generate%20Parentheses.cpp) |     | |     |
 | 23  | Merge k Sorted Lists | [cpp](https://github.com/vishnureddys/leetcode/blob/main/cpp/Merge%20k%20Sorted%20Lists.cpp) |     | |     |
