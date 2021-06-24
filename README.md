@@ -43,6 +43,6 @@ Feel Free to contribute to this repository. All solutions must be in their respe
 This is opensourced under the MIT License.
 
 ## Support
-1. Install the free version of [Grammarly](https://grammarly.go2cloud.org/aff_c?offer_id=209&aff_id=73274). This is something I personally use and love. 
+1. Install [Grammarly](https://grammarly.go2cloud.org/aff_c?offer_id=209&aff_id=73274). This is something I personally use and love. You don't have to pay for it, the free version is quite impressive.
 2. Buy me a pizza 🍕 [here](https://www.buymeacoffee.com/vishnusreddy).
 
