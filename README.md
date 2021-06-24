@@ -1,5 +1,4 @@
 # LeetCode Solutions
-
 A collection of all problems I've solved on [LeetCode](https://leetcode.com/problemset/all/). I will be updating this with links to articles on how to solve it from [hello ML](https://helloml.org) shortly.  
 ## Problems Solved
 
@@ -46,3 +45,5 @@ This is opensourced under the MIT License.
 ## Support
 1. Install the free version of [Grammarly](https://grammarly.go2cloud.org/aff_c?offer_id=209&aff_id=73274). This is something I personally use and love. 
 2. Buy me a pizza 🍕 [here](https://www.buymeacoffee.com/vishnusreddy).
+
+<a href="https://www.buymeacoffee.com/vishnusreddy" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 20px;width: 217px;" ></a>
