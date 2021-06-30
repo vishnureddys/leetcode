@@ -35,6 +35,9 @@ A collection of all problems I've solved on [LeetCode](https://leetcode.com/prob
 | 29  | Divide Two Integers | [cpp](https://github.com/vishnureddys/leetcode/blob/main/cpp/Divide%20Two%20Integers.cpp) |     | |     |
 | 30  | Substring with Concatenation of All Words |  |  [python](https://github.com/vishnureddys/leetcode/blob/main/python/Substring%20with%20Concatenation%20of%20All%20Words.py)   | |     |
 | 31  | Next Permutation |  |  [python](https://github.com/vishnureddys/leetcode/blob/main/python/Next%20Permutation.py)   | |     |
+| 32  | Longest Valid Parentheses |  |   | |     |
+| 33  | Search in Rotated Sorted Array |  |  [python](https://github.com/vishnureddys/leetcode/blob/main/python/Search%20in%20Rotated%20Sorted%20Array.py)   | |  [hello ML](https://helloml.org/search-in-rotated-sorted-array-solution-to-leetcode-problem/)   |
+| 34  | Find First and Last Position of Element in Sorted Array |  |  [python](https://github.com/vishnureddys/leetcode/blob/main/python/Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.py)   | | [hello ML](https://helloml.org/find-first-and-last-position-of-element-in-sorted-array-solution-to-leetcode-problem/)    |
 ## Contributing Guidelines
 
 Feel Free to contribute to this repository. All solutions must be in their respective folders. 
