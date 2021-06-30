@@ -38,6 +38,7 @@ A collection of all problems I've solved on [LeetCode](https://leetcode.com/prob
 | 32  | Longest Valid Parentheses |  |   | |     |
 | 33  | Search in Rotated Sorted Array |  |  [python](https://github.com/vishnureddys/leetcode/blob/main/python/Search%20in%20Rotated%20Sorted%20Array.py)   | |  [hello ML](https://helloml.org/search-in-rotated-sorted-array-solution-to-leetcode-problem/)   |
 | 34  | Find First and Last Position of Element in Sorted Array |  |  [python](https://github.com/vishnureddys/leetcode/blob/main/python/Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.py)   | | [hello ML](https://helloml.org/find-first-and-last-position-of-element-in-sorted-array-solution-to-leetcode-problem/)    |
+| 35  | Search Insert Position |  |  [python](https://github.com/vishnureddys/leetcode/blob/main/python/Search%20Insert%20Position.py)   | |     |
 ## Contributing Guidelines
 
 Feel Free to contribute to this repository. All solutions must be in their respective folders. 
